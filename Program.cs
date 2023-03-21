@@ -1,7 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.Write("Enter a string and press enter");
+Console.Write("Enter a word and press enter");
 string sinput = Console.ReadLine();
 Console.WriteLine("You have entered: {0}",sinput);
 
